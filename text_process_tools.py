@@ -154,6 +154,32 @@ def split_article(article: Article):
 def split_chapter(chapter: Chapter):
     return chapter.sentences
 
+def construct_chapter(sentences: List[Sentence]):
+    languages = []
+    for sent in sentences:
+        languages.append(sent.language)
+    if len(set(languages)) == 1:
+        # 如果只有一种语言，就设置为这种语言
+        chap_lang = languages[0]
+    else:
+        chap_lang = "mix_language"
+    chapter = Chapter(sentences=sentences, language=chap_lang)
+    return chapter
+
+def construct_article(chapters: List[Chapter], title=None):
+    languages = []
+    for chap in chapters:
+        languages.append(chap.language)
+    if title:
+        languages.append(title.language)
+    if len(set(languages)) == 1:
+        # 如果只有一种语言，就设置为这种语言
+        art_lang = languages[0]
+    else:
+        art_lang = "mix_language"
+    article = Article(chapters=chapters, language=art_lang, title=title)
+    return article
+        
 
 # 对象到文件的转换
 import json
@@ -253,3 +279,19 @@ def split_chapter_tool(chapter_id: UUID):
     sent_objs = split_article(chapter_obj)
     sent_ids = [sent.id for sent in sent_objs]
     return sent_ids
+
+def construct_chapter_tool(sentences_id: List[UUID]):
+    sent_objs = [load_object_from_json(s) for s in sentences_id]
+    chapter_obj = construct_chapter(sent_objs)
+    save_object_to_json(chapter_obj)
+    return chapter_obj.id
+
+def construct_article_tool(chapters_id: List[UUID], title_id=None):
+    chap_objs = [load_object_from_json(c) for c in chapters_id]
+    if title_id:
+        title_obj = load_object_from_json(title_id)
+        article_obj = construct_article(chap_objs, title=title_obj)
+    else:
+        article_obj = construct_article(chap_objs)
+    save_object_to_json(article_obj)
+    return article_obj.id
