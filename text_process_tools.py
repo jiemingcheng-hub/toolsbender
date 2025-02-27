@@ -23,6 +23,9 @@ class TextBase(BaseModel):
         if v not in ['pos', 'neg', 'neu']:
             raise ValueError('情感倾向必须是pos, neg, neu')
         return v
+    def model_post_init(self, __context):
+        # 对象初始化完成后自动保存
+        save_object_to_json(self)
 
 class Sentence(TextBase):
     word_count: Optional[int] = None  # 占位值，实际由验证器计算
@@ -41,10 +44,14 @@ class Chapter(TextBase):
     @classmethod
     def assemble_content(cls, data: dict) -> dict:
         """自动聚合句子的content并去重"""
-        sentences = data.get('sentences', []) or data.get('sentences', [])  # 处理可能的拼写错误
+        sentences = data.get('sentences', [])
         content = []
         for sentence in sentences:
-            content.extend(sentence.content)
+            if isinstance(sentence, Sentence):
+                content.extend(sentence.content)
+            else:
+                content.extend(sentence["content"])
+
         data['content'] = list(set(content))
         return data
 
@@ -62,9 +69,15 @@ class Article(TextBase):
         """聚合标题和章节的content并去重"""
         content = []
         if title := data.get('title'):
-            content.extend(title.content)
+            if isinstance(title, Sentence):
+                content.extend(title.content)
+            else:
+                content.extend(title["content"])
         for chapter in data.get('chapters', []):
-            content.extend(chapter.content)
+            if isinstance(chapter, Chapter):
+                content.extend(chapter.content)
+            else:
+                content.extend(chapter["content"])
         data['content'] = list(set(content))
         return data
 
@@ -74,7 +87,7 @@ class Article(TextBase):
         if self.title:
             total += self.title.word_count
         return total
-# 基于对象的工具
+
 def translate_chapter(chapter: Chapter, target_language: str):
     translated_chapter = chapter.model_copy()
     translated_chapter.language = target_language
@@ -92,7 +105,7 @@ def translate_text(text_obj: TextBase, target_language: str):
     翻译文本对象到指定语言，如果字数超过最大长度则不进行翻译。
     返回翻译后的对象或原对象（如果未翻译）。
     """
-    max_length = 256
+    max_length = 1024
     if text_obj.word_count > max_length:
         print(f"翻译失败：{text_obj.id} 的字数超过了最大限制 {max_length}")
         return text_obj
@@ -131,9 +144,7 @@ def sentiment_analysis_chapter(chapter: Chapter):
         return "pos"
 
 def sentiment_analysis_sentence(sentence: Sentence):
-    '''
-    对句子进行情感分析
-    '''
+    # 只能处理特定语言的情感
     if sentence.language == "en":
         return sentence.sentiment
     else:
@@ -181,7 +192,6 @@ def construct_article(chapters: List[Chapter], title=None):
     return article
         
 
-# 对象到文件的转换
 import json
 from pathlib import Path
 from pydantic import BaseModel
@@ -229,16 +239,26 @@ def load_object_from_json(obj_id: UUID):
         return Sentence.model_validate(data)
     else:
         raise ValueError("无法识别JSON数据所属的模型类型")
-    
-# 直接操作文件的工具
+
+# # 示例用法：
+# sentence = Sentence(content=[uuid4()], language="fr", sentiment="pos")
+# save_object_to_json(sentence)
+# loaded_sentence = load_object_from_json(sentence.id)
 def translate_tool(text_obj_id: UUID, target_language: str):
-    '''
-    输入文本的id和目标语言，翻译为指定语言
-    '''
     text_obj = load_object_from_json(text_obj_id)
     translated_text = translate_text(text_obj, target_language)
     save_object_to_json(translated_text)
     return translated_text.id
+
+def detect_language_tool(text_obj_id: UUID):
+    text_obj = load_object_from_json(text_obj_id)
+    language = text_obj.language
+    return language
+
+def get_length_tool(text_obj_id: UUID):
+    text_obj = load_object_from_json(text_obj_id)
+    length = text_obj.word_count
+    return length
 
 def sentiment_analysis_article_tool(article_id: UUID):
     article_obj = load_object_from_json(article_id)
@@ -252,9 +272,6 @@ def sentiment_analysis_chapter_tool(chapter_id: UUID):
     return senti
 
 def sentiment_analysis_sentence_tool(sentence_id: UUID):
-    '''
-    对句子进行情感分析，输入是句子的id
-    '''
     sentence_obj = load_object_from_json(sentence_id)
     senti = sentiment_analysis_article(sentence_obj)
     return senti
@@ -272,12 +289,16 @@ def split_article_tool(article_id: UUID):
     article_obj = load_object_from_json(article_id)
     chap_objs = split_article(article_obj)
     chap_ids = [chap.id for chap in chap_objs]
+    for chap_id in chap_objs:
+        save_object_to_json(chap_id)
     return chap_ids
 
 def split_chapter_tool(chapter_id: UUID):
     chapter_obj = load_object_from_json(chapter_id)
     sent_objs = split_article(chapter_obj)
     sent_ids = [sent.id for sent in sent_objs]
+    for sent_id in sent_ids:
+        save_object_to_json(sent_id)
     return sent_ids
 
 def construct_chapter_tool(sentences_id: List[UUID]):
@@ -295,3 +316,4 @@ def construct_article_tool(chapters_id: List[UUID], title_id=None):
         article_obj = construct_article(chap_objs)
     save_object_to_json(article_obj)
     return article_obj.id
+        
