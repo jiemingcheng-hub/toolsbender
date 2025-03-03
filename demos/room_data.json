@@ -1,0 +1,158 @@
+{
+    "R101": {
+        "room_id": "R101",
+        "capacity": 8,
+        "bookings": [
+            [
+                "2023-10-01 09:00",
+                "2023-10-01 10:30"
+            ],
+            [
+                "2023-10-01 14:00",
+                "2023-10-01 15:00"
+            ]
+        ],
+        "facilities": [
+            "Whiteboard",
+            "Projector"
+        ]
+    },
+    "R102": {
+        "room_id": "R102",
+        "capacity": 15,
+        "bookings": [
+            [
+                "2023-10-01 11:00",
+                "2023-10-01 12:30"
+            ]
+        ],
+        "facilities": [
+            "Whiteboard",
+            "Video Conference",
+            "Teleconference"
+        ]
+    },
+    "R103": {
+        "room_id": "R103",
+        "capacity": 25,
+        "bookings": [
+            [
+                "2023-10-01 13:00",
+                "2023-10-01 16:00"
+            ]
+        ],
+        "facilities": [
+            "Projector",
+            "Video Conference",
+            "Teleconference",
+            "Whiteboard"
+        ]
+    },
+    "R104": {
+        "room_id": "R104",
+        "capacity": 50,
+        "bookings": [
+            [
+                "2023-10-01 10:00",
+                "2023-10-01 12:00"
+            ],
+            [
+                "2023-10-01 15:30",
+                "2023-10-01 17:00"
+            ]
+        ],
+        "facilities": [
+            "Projector",
+            "Video Conference",
+            "Teleconference",
+            "Whiteboard",
+            "Sound System"
+        ]
+    },
+    "R105": {
+        "room_id": "R105",
+        "capacity": 4,
+        "bookings": [],
+        "facilities": [
+            "Whiteboard"
+        ]
+    },
+    "R106": {
+        "room_id": "R106",
+        "capacity": 10,
+        "bookings": [
+            [
+                "2023-10-01 09:30",
+                "2023-10-01 11:30"
+            ],
+            [
+                "2023-10-01 13:30",
+                "2023-10-01 14:30"
+            ]
+        ],
+        "facilities": [
+            "Projector"
+        ]
+    },
+    "R107": {
+        "room_id": "R107",
+        "capacity": 20,
+        "bookings": [
+            [
+                "2023-10-01 09:00",
+                "2023-10-01 17:00"
+            ]
+        ],
+        "facilities": [
+            "Whiteboard",
+            "Projector",
+            "Video Conference"
+        ]
+    },
+    "R108": {
+        "room_id": "R108",
+        "capacity": 30,
+        "bookings": [],
+        "facilities": [
+            "Whiteboard",
+            "Projector",
+            "Video Conference",
+            "Teleconference"
+        ]
+    },
+    "R109": {
+        "room_id": "R109",
+        "capacity": 6,
+        "bookings": [
+            [
+                "2023-10-01 10:00",
+                "2023-10-01 11:00"
+            ],
+            [
+                "2023-10-01 14:00",
+                "2023-10-01 16:00"
+            ]
+        ],
+        "facilities": [
+            "Whiteboard"
+        ]
+    },
+    "R110": {
+        "room_id": "R110",
+        "capacity": 12,
+        "bookings": [
+            [
+                "2023-10-01 09:00",
+                "2023-10-01 10:00"
+            ],
+            [
+                "2023-10-01 11:00",
+                "2023-10-01 12:00"
+            ]
+        ],
+        "facilities": [
+            "Projector",
+            "Whiteboard"
+        ]
+    }
+}
