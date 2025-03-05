@@ -1,0 +1,909 @@
+{
+    "S001": {
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:49",
+        "price": 40.0,
+        "available_seats": 94,
+        "booked_seats": [
+            "A1",
+            "B2",
+            "A2",
+            "A3",
+            "A4",
+            "C5"
+        ]
+    },
+    "S002": {
+        "showtime_id": "S002",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:49",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S003": {
+        "showtime_id": "S003",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:49",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S004": {
+        "showtime_id": "S004",
+        "movie_id": "M001",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 16:49",
+        "price": 80.0,
+        "available_seats": 149,
+        "booked_seats": [
+            "C3"
+        ]
+    },
+    "S005": {
+        "showtime_id": "S005",
+        "movie_id": "M001",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 21:49",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S006": {
+        "showtime_id": "S006",
+        "movie_id": "M001",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:49",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S007": {
+        "showtime_id": "S007",
+        "movie_id": "M001",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:49",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S008": {
+        "showtime_id": "S008",
+        "movie_id": "M001",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:49",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S009": {
+        "showtime_id": "S009",
+        "movie_id": "M001",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 09:00",
+        "end_time": "2023-10-01 11:49",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S010": {
+        "showtime_id": "S010",
+        "movie_id": "M001",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 16:49",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S011": {
+        "showtime_id": "S011",
+        "movie_id": "M001",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 21:49",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S012": {
+        "showtime_id": "S012",
+        "movie_id": "M002",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 14:14",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S013": {
+        "showtime_id": "S013",
+        "movie_id": "M002",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 19:14",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S014": {
+        "showtime_id": "S014",
+        "movie_id": "M002",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 23:14",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S015": {
+        "showtime_id": "S015",
+        "movie_id": "M002",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 14:14",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S016": {
+        "showtime_id": "S016",
+        "movie_id": "M002",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 19:14",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S017": {
+        "showtime_id": "S017",
+        "movie_id": "M002",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 23:14",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S018": {
+        "showtime_id": "S018",
+        "movie_id": "M003",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:28",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S019": {
+        "showtime_id": "S019",
+        "movie_id": "M003",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:28",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S020": {
+        "showtime_id": "S020",
+        "movie_id": "M003",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:28",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S021": {
+        "showtime_id": "S021",
+        "movie_id": "M003",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 16:28",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S022": {
+        "showtime_id": "S022",
+        "movie_id": "M003",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 21:28",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S023": {
+        "showtime_id": "S023",
+        "movie_id": "M003",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:28",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S024": {
+        "showtime_id": "S024",
+        "movie_id": "M003",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:28",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S025": {
+        "showtime_id": "S025",
+        "movie_id": "M003",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:28",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S026": {
+        "showtime_id": "S026",
+        "movie_id": "M003",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 09:00",
+        "end_time": "2023-10-01 11:28",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S027": {
+        "showtime_id": "S027",
+        "movie_id": "M003",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 16:28",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S028": {
+        "showtime_id": "S028",
+        "movie_id": "M003",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 21:28",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S029": {
+        "showtime_id": "S029",
+        "movie_id": "M004",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:22",
+        "price": 40.0,
+        "available_seats": 99,
+        "booked_seats": [
+            "D4"
+        ]
+    },
+    "S030": {
+        "showtime_id": "S030",
+        "movie_id": "M004",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:22",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S031": {
+        "showtime_id": "S031",
+        "movie_id": "M004",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:22",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S032": {
+        "showtime_id": "S032",
+        "movie_id": "M004",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:22",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S033": {
+        "showtime_id": "S033",
+        "movie_id": "M004",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:22",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S034": {
+        "showtime_id": "S034",
+        "movie_id": "M004",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:22",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S035": {
+        "showtime_id": "S035",
+        "movie_id": "M005",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:43",
+        "price": 40.0,
+        "available_seats": 99,
+        "booked_seats": [
+            "I9"
+        ]
+    },
+    "S036": {
+        "showtime_id": "S036",
+        "movie_id": "M005",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:43",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S037": {
+        "showtime_id": "S037",
+        "movie_id": "M005",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:43",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S038": {
+        "showtime_id": "S038",
+        "movie_id": "M005",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 15:43",
+        "price": 80.0,
+        "available_seats": 149,
+        "booked_seats": [
+            "E5"
+        ]
+    },
+    "S039": {
+        "showtime_id": "S039",
+        "movie_id": "M005",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 20:43",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S040": {
+        "showtime_id": "S040",
+        "movie_id": "M005",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:43",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S041": {
+        "showtime_id": "S041",
+        "movie_id": "M005",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:43",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S042": {
+        "showtime_id": "S042",
+        "movie_id": "M005",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:43",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S043": {
+        "showtime_id": "S043",
+        "movie_id": "M005",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 09:00",
+        "end_time": "2023-10-01 10:43",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S044": {
+        "showtime_id": "S044",
+        "movie_id": "M005",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 15:43",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S045": {
+        "showtime_id": "S045",
+        "movie_id": "M005",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 20:43",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S046": {
+        "showtime_id": "S046",
+        "movie_id": "M006",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 13:05",
+        "price": 40.0,
+        "available_seats": 99,
+        "booked_seats": [
+            "H8"
+        ]
+    },
+    "S047": {
+        "showtime_id": "S047",
+        "movie_id": "M006",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 18:05",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S048": {
+        "showtime_id": "S048",
+        "movie_id": "M006",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 22:05",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S049": {
+        "showtime_id": "S049",
+        "movie_id": "M006",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 12:05",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S050": {
+        "showtime_id": "S050",
+        "movie_id": "M006",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 17:05",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S051": {
+        "showtime_id": "S051",
+        "movie_id": "M006",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 12:05",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S052": {
+        "showtime_id": "S052",
+        "movie_id": "M006",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 17:05",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S053": {
+        "showtime_id": "S053",
+        "movie_id": "M006",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 12:05",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S054": {
+        "showtime_id": "S054",
+        "movie_id": "M006",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 17:05",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S055": {
+        "showtime_id": "S055",
+        "movie_id": "M007",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S056": {
+        "showtime_id": "S056",
+        "movie_id": "M007",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S057": {
+        "showtime_id": "S057",
+        "movie_id": "M007",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S058": {
+        "showtime_id": "S058",
+        "movie_id": "M007",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:50",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S059": {
+        "showtime_id": "S059",
+        "movie_id": "M007",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:50",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S060": {
+        "showtime_id": "S060",
+        "movie_id": "M007",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:50",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S061": {
+        "showtime_id": "S061",
+        "movie_id": "M008",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 14:01",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S062": {
+        "showtime_id": "S062",
+        "movie_id": "M008",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 19:01",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S063": {
+        "showtime_id": "S063",
+        "movie_id": "M008",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 23:01",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S064": {
+        "showtime_id": "S064",
+        "movie_id": "M008",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 17:01",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S065": {
+        "showtime_id": "S065",
+        "movie_id": "M008",
+        "theater_id": "T003",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 22:01",
+        "price": 80.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S066": {
+        "showtime_id": "S066",
+        "movie_id": "M008",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 14:01",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S067": {
+        "showtime_id": "S067",
+        "movie_id": "M008",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 19:01",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S068": {
+        "showtime_id": "S068",
+        "movie_id": "M008",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 23:01",
+        "price": 40.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S069": {
+        "showtime_id": "S069",
+        "movie_id": "M008",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 09:00",
+        "end_time": "2023-10-01 12:01",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S070": {
+        "showtime_id": "S070",
+        "movie_id": "M008",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 14:00",
+        "end_time": "2023-10-01 17:01",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S071": {
+        "showtime_id": "S071",
+        "movie_id": "M008",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 19:00",
+        "end_time": "2023-10-01 22:01",
+        "price": 80.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S072": {
+        "showtime_id": "S072",
+        "movie_id": "M009",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:48",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S073": {
+        "showtime_id": "S073",
+        "movie_id": "M009",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:48",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S074": {
+        "showtime_id": "S074",
+        "movie_id": "M009",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:48",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S075": {
+        "showtime_id": "S075",
+        "movie_id": "M009",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:48",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S076": {
+        "showtime_id": "S076",
+        "movie_id": "M009",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:48",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S077": {
+        "showtime_id": "S077",
+        "movie_id": "M009",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:48",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S078": {
+        "showtime_id": "S078",
+        "movie_id": "M009",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:48",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S079": {
+        "showtime_id": "S079",
+        "movie_id": "M009",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:48",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S080": {
+        "showtime_id": "S080",
+        "movie_id": "M009",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:48",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S081": {
+        "showtime_id": "S081",
+        "movie_id": "M010",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 11:00",
+        "end_time": "2023-10-01 12:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S082": {
+        "showtime_id": "S082",
+        "movie_id": "M010",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 16:00",
+        "end_time": "2023-10-01 17:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S083": {
+        "showtime_id": "S083",
+        "movie_id": "M010",
+        "theater_id": "T001",
+        "start_time": "2023-10-01 20:00",
+        "end_time": "2023-10-01 21:50",
+        "price": 40.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S084": {
+        "showtime_id": "S084",
+        "movie_id": "M010",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:50",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S085": {
+        "showtime_id": "S085",
+        "movie_id": "M010",
+        "theater_id": "T002",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:50",
+        "price": 60.0,
+        "available_seats": 100,
+        "booked_seats": []
+    },
+    "S086": {
+        "showtime_id": "S086",
+        "movie_id": "M010",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:50",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S087": {
+        "showtime_id": "S087",
+        "movie_id": "M010",
+        "theater_id": "T004",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:50",
+        "price": 60.0,
+        "available_seats": 150,
+        "booked_seats": []
+    },
+    "S088": {
+        "showtime_id": "S088",
+        "movie_id": "M010",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 10:00",
+        "end_time": "2023-10-01 11:50",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    },
+    "S089": {
+        "showtime_id": "S089",
+        "movie_id": "M010",
+        "theater_id": "T005",
+        "start_time": "2023-10-01 15:00",
+        "end_time": "2023-10-01 16:50",
+        "price": 60.0,
+        "available_seats": 200,
+        "booked_seats": []
+    }
+}

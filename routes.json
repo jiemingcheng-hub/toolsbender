@@ -1,0 +1,2243 @@
+{
+  "99461800-13e1-4431-addf-7bd946a9f26b_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "d986ccae-37d0-4271-86e9-46306bac31d0"
+    ],
+    "steps": [
+      "5153c621-590a-4351-8524-ec75b6898bd1"
+    ],
+    "distance": 47.49
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46"
+    ],
+    "steps": [
+      "9e88acdd-62d3-47a3-80d7-5cea9930dd02",
+      "10052dfb-7bbd-44fc-86ff-2e661ca86ac9",
+      "f21880cc-7a08-4564-912d-3a514a39b14b"
+    ],
+    "distance": 18.23
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "c8ee3315-9c95-4ba9-81a9-98265c049945"
+    ],
+    "steps": [
+      "9d69f174-b1cb-4929-ac73-f37cd072f0e9",
+      "1b192595-77d9-4642-a310-a6637270b859"
+    ],
+    "distance": 11.36
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "197cbe94-fc02-4220-bd4b-d1c63504336c"
+    ],
+    "steps": [
+      "ba419f51-2101-4203-b611-63d22cba97c7"
+    ],
+    "distance": 20.58
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a"
+    ],
+    "steps": [
+      "3ea29851-de59-4f0a-93f1-57aa55e3e38a",
+      "cde9edee-a263-4f93-8295-504ff73fbbd0",
+      "724d1153-d953-4015-9905-c5ce0ac9e005"
+    ],
+    "distance": 85.2
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "9d4cb484-17c5-4852-8c0a-a650858d5bc9",
+      "07889884-664a-4cf6-a846-95e79e7cb16d"
+    ],
+    "distance": 15.61
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "f7661551-a65d-4d79-baac-4465290ba6a9",
+      "fc979d68-3f38-4749-966b-f5cd77c6e046"
+    ],
+    "distance": 41.73
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "171ec1ff-97d9-4ab8-a9cd-b4654625d8cc"
+    ],
+    "distance": 100.0
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "d1db574b-a3e0-4c82-a813-fa2559fb82b7",
+      "1e373082-eb43-49e0-bf46-de37d993c408",
+      "c4976849-6a04-44b6-b112-4c694ce5f0b5"
+    ],
+    "distance": 30.74
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "9ada8ba7-e442-49eb-8912-7c95b7ce81a5",
+      "edda5d5d-f3d3-473f-b99a-400c407417a2"
+    ],
+    "distance": 184.23
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "7934e66d-dcf7-430d-bb52-64a436d3b92e",
+      "efc843ea-bd3f-48b3-b017-90093010ea63"
+    ],
+    "distance": 161.76
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "6784e973-a825-4a6d-a3d7-507030bd90b9",
+      "bdcd95c3-bf5c-408b-9156-d2732b486742",
+      "c6ce7cac-1017-4957-a929-aa9142cdb310",
+      "a412832a-5116-45cd-96b7-51ce374b3a5f"
+    ],
+    "distance": 128.03
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "b1b99df2-6386-4144-8c51-685a588dffbf",
+      "8dd3e323-6ae7-4efc-8097-b66b55deaed9",
+      "b6f0ec28-0ada-4448-baee-8114efbdfa7b"
+    ],
+    "distance": 236.66
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "f03f1be1-59f8-40a0-bddf-6a5e6b5c0875",
+      "073d7d7d-ec79-4f0c-9496-ae7cef2cda23",
+      "9f66baf7-5acf-4031-9314-d14ce9ad6aa4",
+      "83969b9e-5732-4550-8587-0d8cb05b3692",
+      "797e5219-5996-4dd4-b02b-0db8bb4001db"
+    ],
+    "distance": 113.29
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "66565da2-f6d9-45d1-a0aa-1c8652fdc7ee",
+      "d6a3c4e6-3f32-44da-8d0a-cb4b094d401a"
+    ],
+    "distance": 150.32
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "282ea0b8-2cdc-448c-94d3-e5ef02900c36",
+      "28f133da-6adc-46cb-9d72-80a3727efb74"
+    ],
+    "distance": 235.6
+  },
+  "99461800-13e1-4431-addf-7bd946a9f26b_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "e153f558-291a-4411-8c78-a838d76f12bd",
+      "58cf8457-487f-41d6-92b2-259de841f6ad",
+      "0a5c984b-fac8-4625-8632-4758a9c542fc",
+      "ca39b9cd-083f-4800-8a43-2da34281b390",
+      "38674f61-522e-4384-bbb7-0fc5bb00bb13"
+    ],
+    "distance": 157.7
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "005ff2cd-fb04-443f-8109-753611d6f60a",
+      "bfb45515-09c1-403c-9522-dc25dcb4baf3"
+    ],
+    "distance": 121.09
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_99461800-13e1-4431-addf-7bd946a9f26b": {
+    "city_pair": [
+      "99461800-13e1-4431-addf-7bd946a9f26b",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "ef92593b-c3ca-4116-92cd-600a11336e84",
+      "9281ec6f-c6fd-49e8-a9d8-274736f9f0fd",
+      "c090b91a-7e40-4a0b-94ce-11736dcfbbfe",
+      "21e4264a-e4b5-4885-8d78-f6bc1b145967"
+    ],
+    "distance": 221.29
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46"
+    ],
+    "steps": [
+      "82391922-9390-4712-b0fb-248887925055"
+    ],
+    "distance": 32.29
+  },
+  "c8ee3315-9c95-4ba9-81a9-98265c049945_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "c8ee3315-9c95-4ba9-81a9-98265c049945"
+    ],
+    "steps": [
+      "152b11fe-5f97-46c2-9361-b74718d3c001",
+      "ac1f7769-6cb5-4c25-971b-0575568308f6",
+      "3664be8d-240e-4645-a873-82d8ccf3bdde"
+    ],
+    "distance": 96.87
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "197cbe94-fc02-4220-bd4b-d1c63504336c"
+    ],
+    "steps": [
+      "60edc4eb-8bd9-4eab-8925-c423636e9299"
+    ],
+    "distance": 49.71
+  },
+  "b3ae9a98-f729-483a-a3a3-369d7def2a1a_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a"
+    ],
+    "steps": [
+      "3165e03a-7c16-4022-9e9d-57dfdaaf39f6",
+      "587aa8e8-14ab-4862-84d5-3dfefd2a9aa0",
+      "b5021c11-ef61-4484-b32b-17a75f784481"
+    ],
+    "distance": 93.66
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "5b549430-677c-420f-a79e-74bd7619b2fe",
+      "3cceab73-5073-40b9-8601-586266122686",
+      "4160c64a-08cd-4060-a2b2-44244560a574"
+    ],
+    "distance": 49.65
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "a5cbeadf-7bb6-45cc-aea9-778a5803fea1"
+    ],
+    "distance": 20.96
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "d2b26760-6fe8-4911-821d-18803315c460",
+      "32e46248-971b-40bc-8312-cd59f91f3724",
+      "fe9de8ac-7b1a-4616-a02a-f395c65cff73"
+    ],
+    "distance": 9.32
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "f0a6e098-02d1-4152-afa0-dfd7fa5af5fb",
+      "a1df8c75-052c-4975-ab6e-dd73dbc01266",
+      "c14e6934-eb56-4843-a58d-ec8dcac8d56e"
+    ],
+    "distance": 26.38
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "1b247128-8c3e-4637-b4fa-6d85173ad69f",
+      "0ee843e4-0fa5-4fda-92b3-4ae81123e890"
+    ],
+    "distance": 198.0
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "2acf95d3-152a-404c-a97b-6e3770046186",
+      "ab6996ab-00bb-435f-909c-bc42ce0c53ad"
+    ],
+    "distance": 277.97
+  },
+  "cde033cf-264d-4ebc-bb2c-4b37fe99b95a_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "2c930b01-c2a6-4a72-85ad-5aac3f9e66f4",
+      "fe767e07-5848-436c-8ed0-855e2aa12f06"
+    ],
+    "distance": 255.05
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "31fbec7b-2cf5-487c-9cc2-8bd6a21236f1",
+      "da0cee5d-a5b0-4177-872c-2f35ce8cf1fa"
+    ],
+    "distance": 189.06
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "ed6aa54d-8914-4d20-82fb-7faa567c77ff",
+      "0548fa8a-0744-49d4-a63f-1ff2695c3061",
+      "0247d68e-042c-421b-958d-d58a4748c93d"
+    ],
+    "distance": 137.65
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "47c26e36-0dbf-493f-960e-f3e2b243c2a3",
+      "90f71baa-098e-4181-aa78-f9ff0740e5b6",
+      "f6a8695e-89ee-4f06-82cf-b852ef823fd5",
+      "e9a2b7ea-66f6-4650-897c-e0d809af62ed",
+      "d3d313ad-3976-4c02-bd43-b84f6a2f2fe6"
+    ],
+    "distance": 157.99
+  },
+  "d986ccae-37d0-4271-86e9-46306bac31d0_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "7bd85c12-764d-423b-8b6d-0379a0384676",
+      "4dc90eb3-cf8a-4562-8616-0ab1f9ab30cf",
+      "31672f18-fb90-490d-ba4e-5b75607eaf4b",
+      "0bd36e98-b2fe-41f3-98ee-18ba2bf29058"
+    ],
+    "distance": 294.89
+  },
+  "d986ccae-37d0-4271-86e9-46306bac31d0_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "be8a76dc-2feb-41c3-a838-739ff3fe54f8",
+      "c188900b-b7ce-4f1d-ba0f-68b928407798",
+      "b8dfeb73-fcff-44e3-a76f-48b3afc14118",
+      "bd6cf529-fad0-4c6d-bfb1-3a2ce717c464",
+      "8f2219dd-654a-425a-9d62-ef6bb3b3562d"
+    ],
+    "distance": 115.02
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "d8cbe37a-6cd2-4015-8058-87d74aa10920",
+      "23bc8a44-c8ce-4132-936f-0309bc40dcf2"
+    ],
+    "distance": 297.39
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_d986ccae-37d0-4271-86e9-46306bac31d0": {
+    "city_pair": [
+      "d986ccae-37d0-4271-86e9-46306bac31d0",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "bcb997f5-480b-4785-846d-5f7f4adf43a1",
+      "e496d8fd-0e36-4555-a0c6-da46c50fb536",
+      "39dc4a19-03f9-450b-b15d-900727035296",
+      "cdd53b38-c1d9-4c75-8c52-7c13d7134cd4"
+    ],
+    "distance": 130.29
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "c8ee3315-9c95-4ba9-81a9-98265c049945"
+    ],
+    "steps": [
+      "ba02afdb-7766-4461-8f25-8934470754f5",
+      "484d20dd-dccc-468c-ac43-fed6ef6a830c"
+    ],
+    "distance": 51.51
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_20240bf9-d111-4645-9b2c-cadabcaa4b46": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "197cbe94-fc02-4220-bd4b-d1c63504336c"
+    ],
+    "steps": [
+      "7d652a70-6014-4ed8-bcec-5c69049c7019",
+      "a4fa5eb3-6022-49a4-9272-6d3d6a23109f",
+      "b25735f1-ff3b-4def-8431-e29ac09c9fe8"
+    ],
+    "distance": 2.5
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a"
+    ],
+    "steps": [
+      "61900507-5586-4a86-bfd1-18454c109fa3",
+      "1db8c0e8-fb00-4bef-b28e-08c4fc5cdda2"
+    ],
+    "distance": 52.16
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "df07e11b-1a19-4fed-a59a-1f07565b61b7"
+    ],
+    "distance": 48.86
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "0065b8e6-5dd4-4443-a808-4987c352702b",
+      "d94e9c36-cdbc-4c4b-87ef-e225f37a84d5",
+      "12fbd345-dbe9-4f71-aaba-fe5aa8eb0be3"
+    ],
+    "distance": 14.28
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_23e39666-2f03-4d36-a1fb-8fc5de4facbb": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "9ce56ffb-dee1-4650-b06f-b7bf6be9c043",
+      "eec54ce1-2dc9-4f1e-b3f4-79e6d911e81e",
+      "c3e00c7f-58cc-4395-b766-6db3398d8441"
+    ],
+    "distance": 44.23
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_278e2936-aaa9-489d-a6f2-07d36a2cbf8a": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "4f095b62-2c9a-4bb4-8088-9cc9429c9c98"
+    ],
+    "distance": 87.58
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "4d7ce861-b1b0-4025-b54c-4432725d5405",
+      "60483691-43d0-419c-bc53-92953bd4db38",
+      "135bad28-d230-40a7-8b63-9d032421a30a",
+      "70f4d424-4c6f-4f86-a245-9a5cd278ef50",
+      "2df6ef15-e7f7-42b3-9c36-9b3d49376b8d"
+    ],
+    "distance": 288.43
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "b1b4b226-7205-466a-8126-80b3b6370bc0",
+      "f17cc8d2-dd78-478b-94bc-4b7723e07cd2"
+    ],
+    "distance": 135.7
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "e9ded9e3-775c-4dac-b71d-e6ae01dd5f5f",
+      "48e4bda9-6f49-4a15-ba6f-2db608f48202",
+      "8523d7a8-29b5-45d4-af90-2ce729262a5e",
+      "e1dd0bc0-ae1c-43bb-9f37-f349fc1cf527",
+      "f9b4d892-2f3b-4c86-a729-74dadabff1ce"
+    ],
+    "distance": 285.2
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_20240bf9-d111-4645-9b2c-cadabcaa4b46": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "f2ded4db-be4f-4dd0-af5c-9187ad5a6f00",
+      "0cb2b034-02e2-45ea-8445-3af3315843f0",
+      "46691ffc-6f52-423e-8c92-210e32b8ecda"
+    ],
+    "distance": 124.5
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "308bd985-62d9-4a46-8530-a4d14e61f81e",
+      "15bf9ecd-3344-4b73-bd46-cfdfcf410d48",
+      "272610f2-676d-42fc-9d64-f2516eae0adc",
+      "c5eb4be4-b944-4da0-a383-e08685ba9653",
+      "71468317-7fe5-41bd-848e-bf3efdad7182"
+    ],
+    "distance": 268.66
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_20240bf9-d111-4645-9b2c-cadabcaa4b46": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "5cbccd44-fbdf-40a2-aac2-1ba741670fec",
+      "5a0aede2-fa47-442d-ad24-d4e3141b923d"
+    ],
+    "distance": 161.0
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "f29b9b28-8766-44e8-b6b5-bf74345d7ba0",
+      "b7b007e0-9946-43d0-b1e7-644fae1a6505",
+      "3e67232b-4825-486a-906e-8380d6806a0c",
+      "71f99a93-2624-4abc-abe3-9335a5d1abce",
+      "00a923ea-464d-42f7-8557-ba3d3fb20de4"
+    ],
+    "distance": 179.56
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "a317258e-ddff-4fd0-9a31-5f9c6c1d5636",
+      "71892893-a1c1-47c7-8be1-a18373b8c34c",
+      "dd11bc8e-d26d-4440-8878-da8e891623be",
+      "61910a3e-99fc-4d3b-80d6-200df0d068b6",
+      "24830d57-fea4-457d-8162-b040f7b471f2"
+    ],
+    "distance": 134.27
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "53b704f7-f824-4ab8-9038-da3b0286fd75",
+      "f9ad9bbe-f19a-4389-b845-bcec06e79adb",
+      "b3f6890a-307e-4af8-ac3a-a6457b53fbb0",
+      "f997330c-a43a-46c0-8000-d921ac13dab7"
+    ],
+    "distance": 233.25
+  },
+  "20240bf9-d111-4645-9b2c-cadabcaa4b46_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "20240bf9-d111-4645-9b2c-cadabcaa4b46",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "1c046640-49e7-4250-8b03-79518031979b",
+      "637003a9-a2d5-4745-b186-1e080b9a29ce",
+      "5a3fc5fa-a4b5-4c63-b5bf-88e6da8b1979",
+      "f1279a4f-6273-476c-b165-13ad9c3493cb"
+    ],
+    "distance": 168.47
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "197cbe94-fc02-4220-bd4b-d1c63504336c"
+    ],
+    "steps": [
+      "a577729e-00e2-41a0-a8cd-dc49e3bdf5e7",
+      "6b467639-6577-430d-be65-5d89e22e8656"
+    ],
+    "distance": 29.98
+  },
+  "b3ae9a98-f729-483a-a3a3-369d7def2a1a_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a"
+    ],
+    "steps": [
+      "04253463-ea9b-49f0-a0a7-9dd5f0b006a5",
+      "cb348b22-1d10-4f20-833d-9abe0ab6b09f"
+    ],
+    "distance": 77.19
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "585802a5-ef30-4918-8715-9d5073e5a22b",
+      "a96265d7-7e94-4593-925d-0494b35d3bcd",
+      "1aea1240-40f6-47f6-89fe-280b83b9c320"
+    ],
+    "distance": 8.93
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "49159642-ba35-4717-88e5-f196d7326e67",
+      "7e9c8a7a-2a95-4b65-9d7b-6daf276569eb"
+    ],
+    "distance": 35.64
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "c850954c-1d56-4144-bd18-c364dd7bb229"
+    ],
+    "distance": 31.19
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "931bcf7b-3137-41ef-8e02-007fc7e2d794",
+      "6ae6826e-12c4-447c-b730-9401652491e6"
+    ],
+    "distance": 58.19
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "81b3c2a4-8398-4a48-8962-d321e742bb76",
+      "a89d098e-c889-4524-99ec-49e21c8ed5ba",
+      "b5d8107d-255d-4539-92c3-8500134b8210",
+      "d3e16f8b-66ab-4cc1-b38d-81fee8d9335d",
+      "3a776cf0-1d33-48a0-a274-f9849aef45e8"
+    ],
+    "distance": 105.23
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "415e77df-4aeb-4245-b867-961dd89b9c02",
+      "917062ea-4c66-4d03-a659-13e4bde563dc",
+      "cfb27b0f-1537-43a4-a141-f14f24d38bb0"
+    ],
+    "distance": 225.43
+  },
+  "c8ee3315-9c95-4ba9-81a9-98265c049945_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "5d2f9ebb-7ab6-4158-ad13-5c352c9d7c9d",
+      "d9a6c921-bca0-4ae4-a4b3-d2d2ed528ff5",
+      "1bcb1743-fa69-4569-9f17-196a1b7e918c",
+      "51a97cf1-4a7a-43cd-b817-c5273c360079",
+      "5e98faec-f7bd-463b-9017-d6e029f7e01d"
+    ],
+    "distance": 158.33
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "a353bc80-6161-463b-a829-2eef7d61060d",
+      "f5037e99-e1af-4678-92f2-9fea688f66b7",
+      "26784d6e-4354-4e64-9006-675cce082af8"
+    ],
+    "distance": 209.33
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "d24cfe6c-9115-4e3c-b6dd-2f78805fda48",
+      "a68a8e38-8a29-4e75-9573-981f534df47d",
+      "e51baaf0-f4d1-4257-bd1a-e730db893050"
+    ],
+    "distance": 268.68
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "f82fd797-1be4-4689-b970-3eb0ab520ba1",
+      "8b439f50-f1af-4077-94b0-c640fc7b0514",
+      "9f93037f-4eb6-4d0c-8ea4-ee6c78a0a9f0",
+      "aecebd28-b50d-497e-ba05-60342da3507b",
+      "9bb66bc6-8b8a-44c9-8d8c-802faf0efad1"
+    ],
+    "distance": 148.06
+  },
+  "c8ee3315-9c95-4ba9-81a9-98265c049945_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "dd548d8a-710f-43ac-aa7d-5e252dbff543",
+      "8ea2812a-29b7-40ce-b125-7eafba7ba2e1",
+      "f7d63b23-a6ad-42eb-9362-89e2105701c3"
+    ],
+    "distance": 112.94
+  },
+  "c8ee3315-9c95-4ba9-81a9-98265c049945_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "796fd129-f440-4c15-ac28-a05258ca0874",
+      "011f3711-f87a-4055-b504-44551a8b7c38"
+    ],
+    "distance": 181.12
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "d22705fd-47eb-49fa-bba9-7b94f94710da",
+      "ea161555-c69c-49b8-9087-c25f985f690b"
+    ],
+    "distance": 268.67
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_c8ee3315-9c95-4ba9-81a9-98265c049945": {
+    "city_pair": [
+      "c8ee3315-9c95-4ba9-81a9-98265c049945",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "0bd5b4b1-66e6-41e9-bc78-6482c778c6ba",
+      "3140551d-baed-49fb-9fd7-9aa3aac4f8d1",
+      "d51217bc-89ab-4ab8-b661-ee71db42becb"
+    ],
+    "distance": 208.52
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a"
+    ],
+    "steps": [
+      "f75957ad-a720-4755-b218-a3d42f3a594e",
+      "822e0f35-f43a-4874-b885-ea691e5c8111"
+    ],
+    "distance": 29.72
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "85f22248-e603-463a-9e72-ade3457c3a31",
+      "957591a8-0bf4-46e0-bc34-550bdd42cbfc"
+    ],
+    "distance": 14.42
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "d5db6e58-cfaf-4cb7-a426-39daeffdb9e5"
+    ],
+    "distance": 25.07
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_23e39666-2f03-4d36-a1fb-8fc5de4facbb": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "9d16c63e-ea1f-4cb2-b526-1aa4729d4b47",
+      "1a6ea551-3138-4a01-866a-d7f8bd990993"
+    ],
+    "distance": 12.18
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_278e2936-aaa9-489d-a6f2-07d36a2cbf8a": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "606b6aa6-dce3-4f5e-8d35-13864893ea75",
+      "efd52f2c-f255-4224-8f54-d8e7b9dc9cf4",
+      "1a6093b7-af8b-4850-8849-b6137f65dc1d"
+    ],
+    "distance": 99.83
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "b1f0cc60-591a-48fd-aeb0-c7ace071e6e0",
+      "cb5be131-1c24-4a05-96ab-1aac1e683023",
+      "2057fd81-3d17-4e6c-905f-6a53df1d978a"
+    ],
+    "distance": 186.21
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "6ca341d9-ca53-4e9e-ab7c-e5e2991dc82e",
+      "78946d9d-ea56-4f43-bc2c-9121e3a0df43"
+    ],
+    "distance": 221.07
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "c36569b1-fb8a-4399-af3e-90fbf4271f9d",
+      "37d234bf-1363-4edf-a955-1b4bbdac6d02",
+      "6d68d35e-c717-403e-87bd-8d3dd790245d",
+      "4d625c64-22f7-471f-b194-692ff837f7a0"
+    ],
+    "distance": 205.98
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_197cbe94-fc02-4220-bd4b-d1c63504336c": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "d02b6c2e-7848-4d20-a1a7-542c26ce15bf",
+      "59b3a8ea-4cb9-4d5d-a0dd-aebd99db937c",
+      "065d6f14-7d20-457a-a86e-594ba4e8dba0"
+    ],
+    "distance": 230.77
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "f4725074-8b2b-4cbb-8875-221b8d7b5a41",
+      "a64ec153-effa-420d-9c17-50d9698dc844",
+      "25faccb4-eacc-4b2a-9822-182fcb841b67"
+    ],
+    "distance": 237.63
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_1f8dd8b5-34f4-41eb-9608-e538869e2a5a": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "d30d9c11-f97f-45af-b03e-9d84b44188f7",
+      "a9bff5c5-1fff-4fe1-90fc-7d7f924c0988",
+      "6042c5f2-703c-4600-9843-ca7de64ab6da"
+    ],
+    "distance": 219.48
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "3f7a2aaa-5e5f-4962-a1e7-720535040376",
+      "fff9992b-4077-4508-92ee-25d70cdeefcf",
+      "cef254ea-039c-4bca-9e19-2f9f93d70b01"
+    ],
+    "distance": 254.25
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "719866af-9cca-43e4-9162-c225c594a570",
+      "d9518d82-643c-49ce-a6de-a9f1354102fa",
+      "829d47ef-4c2c-4b46-9e5c-603c33fda4c1",
+      "cd610234-ae96-48b1-851d-d4c9381d57f7",
+      "6971b11d-8d26-4d00-8e89-0716112f42a7"
+    ],
+    "distance": 228.56
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "d3d2c6c5-9312-45d2-9d59-c2541e5160ba",
+      "dfd8c191-ac98-4fd3-a51f-73ee26875345"
+    ],
+    "distance": 135.18
+  },
+  "197cbe94-fc02-4220-bd4b-d1c63504336c_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "197cbe94-fc02-4220-bd4b-d1c63504336c",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "063290b9-b1ad-4acd-9f3b-9d7dd896ecbc",
+      "7d235e93-39fb-4245-a4f3-a810de7d9159",
+      "4d825b11-d83c-4b71-be11-5d508fd73acb"
+    ],
+    "distance": 263.38
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b"
+    ],
+    "steps": [
+      "41bd2012-5a3a-4b68-a3fa-c04a654439ef",
+      "425f0947-cdd3-4de5-8718-6d8f974871c1",
+      "b5237040-87b9-40ef-9679-0fe769b74d20"
+    ],
+    "distance": 53.96
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "3a9ff1bc-1f15-4c17-af3d-bffed5bf8397",
+      "2517ff7b-bc50-4f59-86e4-665a7bbd8478",
+      "8eb233cf-0bbc-4e23-9ed3-3b591e8697f9"
+    ],
+    "distance": 47.24
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "376f30af-3e1b-4774-815d-b27159113df4",
+      "99c61b44-3934-46f8-ab03-dfe4a002aeaf"
+    ],
+    "distance": 98.03
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "2b87ec0a-4866-42b2-9703-292274093261"
+    ],
+    "distance": 72.4
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "c372659f-7ac8-470d-b4b9-be3e51091747",
+      "02384417-cc06-4779-8bb1-6802bacbd6aa",
+      "e19f8ba4-8e39-4df7-a53a-b82efd5df3d9",
+      "1f372a1d-e4aa-4564-b04f-f379f1fe18e6",
+      "db0d27e6-a97b-42ca-b7a0-38bede24f6b3"
+    ],
+    "distance": 266.41
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "92560c17-e3fb-4f2d-9b45-62a5b9c60b66",
+      "361be03b-e212-42de-82d5-09d36696ee9b"
+    ],
+    "distance": 115.23
+  },
+  "b3ae9a98-f729-483a-a3a3-369d7def2a1a_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "29b04139-dad7-447c-990c-4e05462193a1",
+      "6fa74e67-9144-454a-9f90-b7e4ba6caec3"
+    ],
+    "distance": 232.78
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "8b10f877-782e-4423-92cd-e4a670508cb8",
+      "66e6814b-1ed1-4718-acfe-e2edc5e493df"
+    ],
+    "distance": 191.64
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "0d043e35-9821-46e3-a099-c3858f823418",
+      "1c8cee98-850f-40c5-9f29-7e008ec7e681"
+    ],
+    "distance": 258.22
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "cde43352-dcac-44a2-8ee5-a816e3a3919d",
+      "1318f638-c26e-460d-bc2b-673539125b3c",
+      "7fcf4f6f-81a6-485f-9f5d-2cd0f3c9e373"
+    ],
+    "distance": 279.94
+  },
+  "b3ae9a98-f729-483a-a3a3-369d7def2a1a_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "28d46c94-ef4c-47ff-833d-419a93c8998f",
+      "06eb3853-b711-4b9a-af71-a7f0d425f45a",
+      "aae8baf7-66c0-419a-8199-62adb1972c27"
+    ],
+    "distance": 253.92
+  },
+  "b3ae9a98-f729-483a-a3a3-369d7def2a1a_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "a476ccfd-18e3-44c8-ae78-e02cde23a31f",
+      "46c18e65-1fab-4ad0-b8cc-ce1e939870b0",
+      "49595ea7-4f57-4fa9-88a5-0e355c09aad5"
+    ],
+    "distance": 215.56
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "daf2ba4b-7f24-4ea3-8e12-f25e4f26d0fa",
+      "5dfc4d2f-7bbf-4190-b6ac-6124bbaf11c9",
+      "5b422e0c-7027-442e-bd51-fbd7d43cf1bf",
+      "6659b836-a9e4-478b-a509-204d6c43ed5f",
+      "b53231e1-85ba-4782-81e5-daac149b2a2c"
+    ],
+    "distance": 222.97
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_b3ae9a98-f729-483a-a3a3-369d7def2a1a": {
+    "city_pair": [
+      "b3ae9a98-f729-483a-a3a3-369d7def2a1a",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "ee52a61f-b3c6-4f8b-aa74-47882072a8f9",
+      "3aa9ba0a-5e91-407d-b13a-a9d5f46a9c91",
+      "f89ddd93-a47f-41a5-838e-752ba3db03c9",
+      "79771d68-7e5c-433b-8bd8-8a8928725248"
+    ],
+    "distance": 193.19
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "8c186209-4678-47bf-9026-461184a3b74d"
+    ],
+    "steps": [
+      "66057023-9454-4541-8500-0e2d6b9d1dee",
+      "de96f866-862b-4e86-9939-e7af0ba0c11a"
+    ],
+    "distance": 80.65
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "77535354-49b8-43c8-8a93-8306f49e314d",
+      "3217ff0a-0d93-4aca-892e-97736400eee7",
+      "36574089-5201-40ed-99bb-9cc7061bfca9"
+    ],
+    "distance": 98.51
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "e47a410d-c8a0-4ba7-a2c0-7c1ac9012ae1",
+      "a413b48b-496b-40dd-9470-04820a8224c6",
+      "693cd751-8b55-4b36-a7e6-93bf34868b47"
+    ],
+    "distance": 56.84
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "439bded6-b7b6-408a-92c6-eca9307e1926",
+      "d2d3e8cb-9c1e-43ed-a342-7afd4995b557"
+    ],
+    "distance": 218.21
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "dbe1dbb4-b91b-48a7-964f-89110acef1e1",
+      "eeb7c059-ac43-47ab-966f-73a6e81de008"
+    ],
+    "distance": 203.13
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "5c60ff87-4886-4229-ae04-cf1aa046399d",
+      "a52fff62-b63d-413b-af0a-702aa98896c4",
+      "447a733c-eb0c-4406-863b-624a74bb3422",
+      "28b8b17c-f49e-41ad-a0ec-eb8895466ed0"
+    ],
+    "distance": 182.94
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "38a5ad06-601b-446d-9c28-c781cde879a5",
+      "e0ac5b56-2d90-4625-bbbf-2d67e60a2747",
+      "00ca6488-1ac3-483d-a7de-82986711eda7",
+      "5f6c81be-7af5-47ca-8940-19410036d098",
+      "f4e01273-b404-4a34-9265-b86897597be3"
+    ],
+    "distance": 278.13
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "fc21e5e4-afd0-4afd-bfaf-955d7e006c60",
+      "112b1760-0cb6-4c88-98f8-121b364b4936"
+    ],
+    "distance": 228.07
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "18af940e-5b3a-4d1b-a252-50306f3614c0",
+      "9c6771ee-772f-4144-95ea-dbaa5c775ad5",
+      "d88d3313-2cbc-49ec-8bb9-b67872f4eb5b",
+      "9d45cf66-939e-4382-8725-95a23f1168f4"
+    ],
+    "distance": 191.41
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "9038e6d6-dd31-47c4-8514-789080321a7a",
+      "815c5da6-f48b-4a7c-a39e-0ff6d2dec86d"
+    ],
+    "distance": 114.44
+  },
+  "9efb3a0c-2c44-4f8f-82ed-5acb906db83b_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "7822c342-ffd7-4e5e-8280-dac976f4cdc4",
+      "7d174bbb-aff1-4a18-8f1e-59b8cc51ecd3",
+      "c067191a-7c2b-4864-9cf3-ebd8ad3f907c"
+    ],
+    "distance": 260.97
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "6e1db8a3-5c00-4cb0-b922-f200a8e9f126",
+      "548f3161-baff-46fc-b654-583145be11db",
+      "c64e7753-0bdb-4bde-9eaa-016a79f20ea0",
+      "cc8f1e1e-8e00-4190-9333-baeeb1bad5f9"
+    ],
+    "distance": 215.06
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_9efb3a0c-2c44-4f8f-82ed-5acb906db83b": {
+    "city_pair": [
+      "9efb3a0c-2c44-4f8f-82ed-5acb906db83b",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "cb893517-b880-4c7b-a2b9-e7d7866017d0",
+      "bc52b54c-0e92-44c0-94c9-7b55af4e9b86",
+      "43789d34-dda9-4215-a5b3-184166c8d916"
+    ],
+    "distance": 141.85
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb"
+    ],
+    "steps": [
+      "d8485c7f-01ce-4e1d-bdcc-cd30f481cca4",
+      "a8d147ef-4457-47f6-85dc-b26312ccb49b"
+    ],
+    "distance": 68.77
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "4aa4a6bb-9e60-40cd-b311-092596b11a07",
+      "76073fd8-a315-423d-896b-910eb90b0d19",
+      "6ed71770-3fac-4f1b-bf70-5200ef76a0ed"
+    ],
+    "distance": 16.64
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "7883a0ed-3d09-4c22-8bd7-22d028f0369d",
+      "03c31ccb-cd25-48db-a3f0-52bf98304fce",
+      "5da753d2-2cfd-4b32-8b97-2eca7632a520",
+      "bf348690-06bf-4938-9b8a-fdd178c8fd42"
+    ],
+    "distance": 111.68
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "92af309c-258d-402f-b948-edaca2ca51ec",
+      "d79eb652-5c3a-4597-a2e0-23e732355fc0",
+      "79091e13-76b5-4f9b-bd73-7d8be3707556",
+      "b1bf769f-f05e-40e6-b941-c94c0491d553"
+    ],
+    "distance": 168.85
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "cdb721ba-fc09-4e45-8420-90235c1985fb",
+      "00a30314-468a-49aa-9d54-ac5232a1a2ee"
+    ],
+    "distance": 241.24
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "b5a7e2e6-7046-4894-a8c0-3c29824cc840",
+      "cfe3b9d4-b845-4ffd-9a9a-de0ab3e0a860",
+      "ef631f74-3f08-4550-bd5a-3d646d0b54b4",
+      "2ba7beec-c4c8-415f-8e16-dd298e355749"
+    ],
+    "distance": 256.81
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "3e34a4b5-1ac2-4ee8-ae60-5d6825fffeb8",
+      "01c71c2b-ad4b-42f3-be1a-9af886c86d4d",
+      "5530ce85-2802-461c-91e2-2d1c69896aa3"
+    ],
+    "distance": 193.21
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "ef05496b-d8ab-4aaa-a8e9-a79eaae2c5e1",
+      "92db099c-e225-499f-b6f6-6c49ee12d53d",
+      "9170b2ba-eb45-4ecb-86d1-5281c91c6c96",
+      "3673e791-9d20-434e-9a88-9eab7bb0c34c"
+    ],
+    "distance": 150.56
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "49aef5f9-b993-4937-899a-15a20e4525bd",
+      "ee4d2ad0-d262-49b9-8d64-328da646602a",
+      "0c0e3393-93f8-4b3b-b777-4f9a3a97e13b"
+    ],
+    "distance": 100.79
+  },
+  "8c186209-4678-47bf-9026-461184a3b74d_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "b687bfb9-f77e-4bca-bd45-3559dcabc0b4",
+      "63c9aa61-80e3-4f91-8910-c73ceeccb048",
+      "ba8c4224-bae4-48bb-bef9-369a67661eb7",
+      "3febcdc5-a2c9-4c47-ba6d-7f72ddf1eec2",
+      "6c1a4b06-3afd-4c5f-9dff-956a9f7675c9"
+    ],
+    "distance": 283.6
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "111bae5f-d682-4bc3-ba34-79b56e7d691f",
+      "b39fcfab-9b81-4585-9367-548b79cc8dbc",
+      "fb5ad509-7052-4ce6-b224-c917afae6490",
+      "6be622c5-8f40-4bf6-810f-972a090919ab"
+    ],
+    "distance": 207.32
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_8c186209-4678-47bf-9026-461184a3b74d": {
+    "city_pair": [
+      "8c186209-4678-47bf-9026-461184a3b74d",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "f52a7235-db44-4f02-8e7c-17032ff51336",
+      "a31ddd05-7a6a-4bfc-9e69-53bc63aa96a6",
+      "6fb6d33e-1f4e-4fce-8928-61fcaffbc32f"
+    ],
+    "distance": 204.06
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_278e2936-aaa9-489d-a6f2-07d36a2cbf8a": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a"
+    ],
+    "steps": [
+      "0dab4b99-8bb5-4bf9-bd7d-3a0dd8113e64",
+      "eb6a12a7-75ad-44fa-8920-2b05f526f288",
+      "0adf1285-e080-4936-9af4-290b91941557"
+    ],
+    "distance": 39.08
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "02ecd00e-17d3-42ab-9e7d-ec77bbaf5538",
+      "822366d7-cf14-4a0c-8760-784063d3d32a",
+      "2d3462ff-a876-4ddd-8b4c-34827b61be5c",
+      "9e77e40f-d53e-4c75-b133-acaf18ea4d32"
+    ],
+    "distance": 261.05
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "ef35afbc-7fcf-48f1-a7d4-26d76532675c",
+      "439faa7b-e27c-42b5-a9db-6bcea7424fd5",
+      "11b40773-3633-42bf-b5ff-3154a7bd4f31"
+    ],
+    "distance": 114.15
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "0acd3b70-951c-4e93-b3df-015d4292dc0d",
+      "39608f1a-cab9-4799-8fa7-198b8de43761",
+      "2fdb96cb-7d4c-4ea9-adc0-bddee7096981",
+      "03c970e6-5026-4ab3-8eef-168803a693f9",
+      "d049f634-929c-47a6-9342-4ae056a543ac"
+    ],
+    "distance": 208.44
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_23e39666-2f03-4d36-a1fb-8fc5de4facbb": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "7a1ac122-d61b-4c63-ba4e-96931fcfdeaa",
+      "d29123a0-b337-4b56-92ce-4c763fe41c0f"
+    ],
+    "distance": 110.56
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "3a044aa5-1cf7-4823-9f62-ef150443f762",
+      "bb08bfb5-d20e-438f-8a0b-ab70471bccaa",
+      "95ee52f5-4470-4817-a622-e2f48d324d5c",
+      "61bac7ed-6298-4b2a-b814-97b9d393b88b"
+    ],
+    "distance": 125.72
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_23e39666-2f03-4d36-a1fb-8fc5de4facbb": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "f1eae2c5-149d-4897-8c84-7f46f4251240",
+      "e7e0f2a9-feda-457c-9d1c-5f7596fefe61",
+      "def7595d-6433-4960-ae68-0480c16c3cd7",
+      "2a1bf92a-8c09-408c-8bc2-27ef29df473f",
+      "80a9678f-8ecf-4ccb-b8e4-91f99b30cac6"
+    ],
+    "distance": 188.42
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "47562555-2f45-4ac8-abd0-c6ac9a21befa",
+      "a5cd8d66-a010-40bf-9c97-e97cb99d4721",
+      "e86ba078-67ef-49a9-8055-69813c1ca00c",
+      "45420650-8f7a-4e86-838d-9c9241aa196f",
+      "53725550-517b-4cb7-8619-9b43ac9e8ebd"
+    ],
+    "distance": 294.23
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "59f927cc-3a36-4126-aad9-1500028e8212",
+      "60e4ea73-ac8d-4bd9-ad4b-2808331f52a4"
+    ],
+    "distance": 271.75
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "c0189a65-68d5-448e-9aa6-632824f11fbf",
+      "9ab0d286-cf2b-4cd8-b3a1-e0f653793876",
+      "f4b7f7cf-8306-4006-a916-8412f521c9f9",
+      "2ad8e306-36d7-46ad-851b-b15d5d29cd48"
+    ],
+    "distance": 126.46
+  },
+  "23e39666-2f03-4d36-a1fb-8fc5de4facbb_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "23e39666-2f03-4d36-a1fb-8fc5de4facbb",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "b3139325-7cf7-419a-b9fb-1e3e85c26489",
+      "dfb1a1dd-2014-4a2d-ac89-1de6d56f90be",
+      "3a1ab491-ecba-45f0-a65c-0df0e0b46762",
+      "b1f0b12a-3048-4bf8-803b-c18f5d5f5d06",
+      "1e843521-105a-4e6e-b910-fc952d566e51"
+    ],
+    "distance": 260.65
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "72a06f07-ce05-4c54-8834-55555b939e05"
+    ],
+    "steps": [
+      "091a8a3b-3dfd-4d1e-88ff-dc96c0b7f300",
+      "89531843-d716-4e6e-93fa-35e440a653da",
+      "b033f739-c440-447e-a9e4-a33f3c36d5b2",
+      "c0731dc1-7e8f-456a-9993-c6353f92637b",
+      "7ff95c61-aa76-4875-8bbb-9f2ae07d7d09"
+    ],
+    "distance": 237.49
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "fa543b8e-e6e3-425f-9355-117e5a0299ee",
+      "c9bd3068-0b58-4d73-9fb2-9624e35c667f",
+      "bfd78f52-3ebd-4a8d-af4d-4fd25f037fc7"
+    ],
+    "distance": 209.62
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "61815df3-65a9-499a-93e0-92c118297806",
+      "3e448aac-2ef0-40f8-abc5-692f433524e2"
+    ],
+    "distance": 229.01
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_278e2936-aaa9-489d-a6f2-07d36a2cbf8a": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "efaf5a53-9541-43b8-97ee-62f76cf5e97d",
+      "1a15c9cd-5dfc-4323-9d1f-9d86e36f65d0",
+      "de00879e-2395-49cc-ab48-7439cf5d0b8b",
+      "360bfbe8-1dd7-42f3-a25c-751a95f2f344",
+      "4756b35c-d332-41dd-9ae7-254031a6ea52"
+    ],
+    "distance": 185.27
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "7eb8f7a8-37d2-42d1-9369-346015dfdecd",
+      "fa7105a3-dece-49e7-8dd2-7aff4cd792f7",
+      "d43bd2de-a0f2-49f7-88ba-36724d4bc33d",
+      "682aabd4-a8d5-4998-8efb-0da9bcc2e96c",
+      "c44f9c25-b24f-4fa5-9dd6-89dc7c09eaee"
+    ],
+    "distance": 266.58
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_278e2936-aaa9-489d-a6f2-07d36a2cbf8a": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "7434cde0-a5e5-4e8e-b5e0-cfb6bbb771d9",
+      "ead44617-f380-4305-be32-dbfd56151f5f",
+      "32bf4ecf-1ee6-4130-bad9-722d4d1f8255",
+      "16ab69a3-5044-4afb-bc85-0d21c33cc7d5"
+    ],
+    "distance": 177.71
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "b3e73eed-164d-4ab2-88c0-425812e0a19e",
+      "178323be-3d7c-4904-a25c-9ff722eb59e8",
+      "a2d48fc5-e7de-43d9-a84a-348d53b1cfe1"
+    ],
+    "distance": 147.32
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "4b42a31d-56ce-4070-8532-d34c606eb1ba",
+      "23474507-575d-47b2-8df2-507f17a98cd5",
+      "2596392b-9533-45ad-bd15-0ac79d202bfc",
+      "0b5142ac-64d6-48ce-9ff2-bb75a0b63f81"
+    ],
+    "distance": 279.63
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "b8978094-8d72-4b4b-bc9e-bfd00c408b81",
+      "1f148630-6783-42cb-af9c-36b593e8a3b1"
+    ],
+    "distance": 262.19
+  },
+  "278e2936-aaa9-489d-a6f2-07d36a2cbf8a_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "278e2936-aaa9-489d-a6f2-07d36a2cbf8a",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "24bd8891-21fc-4c8e-a1f9-06378ba0330b",
+      "d0301884-9f2e-4c5e-b33a-44f5339d16eb"
+    ],
+    "distance": 113.4
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "b2a8fc56-6347-4b93-8366-d0c528756e63"
+    ],
+    "steps": [
+      "aaec6ae4-500d-4ab8-af91-f8b3627b1e9b",
+      "1397b5aa-56b6-4b11-be7a-c236dd5f11ad",
+      "0729ea52-bf2c-4f11-97b4-5c29c35362a0"
+    ],
+    "distance": 61.02
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "31b89c8d-07a8-4196-bb02-b88578ac9c5b",
+      "d09c9b72-6ff1-44d6-af9e-b6cb390442b0",
+      "3a9626ab-160a-4bfd-b4a0-a62b47fdac9d"
+    ],
+    "distance": 86.19
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "b91c6e86-f7d2-41cf-ab16-97e5dc29d3e6",
+      "e83030dd-5196-4623-a46b-1f35293d127b",
+      "8747fbe0-bfa7-4687-9014-2a7e2ef7e774"
+    ],
+    "distance": 28.08
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "9f7281ae-4c36-4a76-a1a3-95ac0e6942c6",
+      "664a05dd-faf3-401d-8467-755e7e3dea47",
+      "f7aeb1d6-ff46-4d90-8f82-1265cb176bdd"
+    ],
+    "distance": 44.49
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "a392a2a5-0a8d-48f1-9ec6-01502d993082"
+    ],
+    "distance": 40.8
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "52cf6599-8edc-48b5-8ed7-04edd4ddd489"
+    ],
+    "distance": 67.71
+  },
+  "72a06f07-ce05-4c54-8834-55555b939e05_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "17148b70-a4f5-4cc0-9585-3b49b0abe8c2",
+      "0cd402aa-48de-4870-bfce-a076a50cfc3c"
+    ],
+    "distance": 49.97
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "76af7509-f458-409d-93aa-2cfccc603235"
+    ],
+    "distance": 85.61
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_72a06f07-ce05-4c54-8834-55555b939e05": {
+    "city_pair": [
+      "72a06f07-ce05-4c54-8834-55555b939e05",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "35542b21-e1a7-46aa-81cd-032d8a99eb60",
+      "bbbe4afe-9da7-4b09-808e-711f2829a9b4"
+    ],
+    "distance": 92.91
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a"
+    ],
+    "steps": [
+      "cd153330-622a-4bbb-894f-2a950fc96a6f",
+      "0a0f5a76-e418-4551-a1b2-76be7ab1696e",
+      "c779d16c-de66-46c2-b14e-6727d6f9fd95"
+    ],
+    "distance": 57.28
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "fe6151da-f565-4e68-8c01-807fd705371b",
+      "84314b62-7e61-46ae-853b-58e7be909f8b"
+    ],
+    "distance": 87.07
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "d37b3234-438c-4ee6-ba1b-3fbf5cb7fcb3",
+      "215a9564-f944-4bc9-905f-3514a1e92686"
+    ],
+    "distance": 59.02
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "dd11880d-20a3-4707-b764-3f220fdc6bf7",
+      "bab040b3-2404-4eb4-a119-c13506220136",
+      "ed65d3a6-dc25-43ba-9f9d-b92a8496c8f6"
+    ],
+    "distance": 96.8
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "018a5ab6-de97-46ad-9577-eb306fa7753d"
+    ],
+    "distance": 20.2
+  },
+  "b2a8fc56-6347-4b93-8366-d0c528756e63_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "00b643f6-0e35-4426-a98a-15d9a3e8737c",
+      "db49eedf-9988-4023-886e-3465cd5cafd2",
+      "44d94602-41c6-41b0-a61e-8480a3c03411"
+    ],
+    "distance": 55.01
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "30518d33-704e-4c6e-bcf8-2700428fc208",
+      "e1114e71-8e35-41d0-9ea1-c2d34cf80b7b",
+      "a7824000-bffc-4c0a-aabd-1d9bf5b96cb6"
+    ],
+    "distance": 93.58
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_b2a8fc56-6347-4b93-8366-d0c528756e63": {
+    "city_pair": [
+      "b2a8fc56-6347-4b93-8366-d0c528756e63",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "77671568-d3ff-42cf-9620-6782f6d0593e",
+      "fa346bb7-d6e1-48dc-8a23-745a2f1c9b90"
+    ],
+    "distance": 48.97
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6"
+    ],
+    "steps": [
+      "1fc701f7-35de-49ac-b235-0ab9d827f1d5",
+      "a7b93394-e3a5-4fa5-834e-58e852e7df4d"
+    ],
+    "distance": 46.71
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "68a9bebf-503f-4992-8fbb-f7945dc7528c",
+      "a74bb323-cfa8-4e61-9e7c-b0236b3dc9f6"
+    ],
+    "distance": 5.09
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "b335b140-a60e-4c25-a1c5-653edbdb72f7"
+    ],
+    "distance": 4.14
+  },
+  "cde033cf-264d-4ebc-bb2c-4b37fe99b95a_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "8da61680-36da-4703-98ce-90cea35e2904",
+      "780a9d49-5047-4a23-9adb-0160ffdafb83",
+      "da2bb751-3f52-4ff1-a4ee-3516f87b16c2"
+    ],
+    "distance": 0.95
+  },
+  "cde033cf-264d-4ebc-bb2c-4b37fe99b95a_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "aee75b84-c3a4-428e-8f0c-a148291c3a73",
+      "cde32838-7984-43b0-8160-369f17c85e51"
+    ],
+    "distance": 67.87
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "76ed7b39-eed0-452d-a235-e56d0d0fccd9"
+    ],
+    "distance": 60.71
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_cde033cf-264d-4ebc-bb2c-4b37fe99b95a": {
+    "city_pair": [
+      "cde033cf-264d-4ebc-bb2c-4b37fe99b95a",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "2c8073e1-0ed5-4572-92f3-8d3850ca6d6d"
+    ],
+    "distance": 33.46
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "877cd2b9-92ae-4589-9bf4-72732b775588"
+    ],
+    "steps": [
+      "1874b8e1-213e-479c-8374-7e39b10d7b32"
+    ],
+    "distance": 93.11
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_1f8dd8b5-34f4-41eb-9608-e538869e2a5a": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "796d4e4b-ed09-4ec1-94d8-4829d62f8672"
+    ],
+    "distance": 73.01
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "25118661-10e9-4ce9-ba47-112435ae71f5",
+      "eaf5ebc1-6d9e-4536-aeb6-6980921e2724",
+      "1d78b09e-137c-4bde-91dc-d85680d8503e"
+    ],
+    "distance": 26.86
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "6093a55d-fb91-4cca-88bc-96741305d009",
+      "f33ca609-dca5-4042-b556-6acb72eb330f",
+      "8b1b09c2-f161-4f19-9e09-77559a50cbf3"
+    ],
+    "distance": 68.15
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "ef543b30-3518-4002-b88e-f2f323d44deb",
+      "a5b4f12c-f3a8-414f-9d1d-45ee66e21157",
+      "92fd532f-4efd-4f26-bc1c-6ea2f5b6ae7d"
+    ],
+    "distance": 23.33
+  },
+  "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "0ca13bbe-fca5-401e-a2cc-9fa2b0b31cf6",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "1db73d63-a99a-4045-8595-c43a31d043e6"
+    ],
+    "distance": 61.94
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "877cd2b9-92ae-4589-9bf4-72732b775588",
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a"
+    ],
+    "steps": [
+      "25142245-2b00-4d51-871d-5f4dddf8ccf5",
+      "abec424f-436d-4b47-bc7c-1242a7bee2d2"
+    ],
+    "distance": 60.33
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "877cd2b9-92ae-4589-9bf4-72732b775588",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "b8c06825-8a35-4af4-8a42-c001280e3553",
+      "aa95d949-554a-4078-b23c-a669b73371cd"
+    ],
+    "distance": 42.23
+  },
+  "877cd2b9-92ae-4589-9bf4-72732b775588_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "877cd2b9-92ae-4589-9bf4-72732b775588",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "763d5530-f8a6-48d8-9c11-861b2ea832f9"
+    ],
+    "distance": 81.62
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "877cd2b9-92ae-4589-9bf4-72732b775588",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "722a8ec1-d26f-498a-b855-a56b3c0b8d4e"
+    ],
+    "distance": 99.76
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_877cd2b9-92ae-4589-9bf4-72732b775588": {
+    "city_pair": [
+      "877cd2b9-92ae-4589-9bf4-72732b775588",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "9e5d28b6-c360-4002-816f-c98947e97f64"
+    ],
+    "distance": 82.85
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a",
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51"
+    ],
+    "steps": [
+      "78975c8c-267c-4b4c-a3e5-f8023c014be2",
+      "c66cefa8-7ef5-474d-a199-10da57e6f2b8",
+      "4abc0a0a-fc81-4dd8-95f7-0f790d87c0a8"
+    ],
+    "distance": 19.67
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "d0416edb-2314-4438-b55e-389f796c5f31",
+      "8441d7dd-d7ff-4d27-ac7c-20bd7b31ae72",
+      "7beba473-3bf5-484f-b02e-9ff2ab56f9d5"
+    ],
+    "distance": 34.42
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "59090665-6590-470b-9344-eed07ad4ff67",
+      "6f9105c6-3b09-4f2c-9c47-88c0c453f671",
+      "e1f0f8be-4486-4d72-b2a0-953bca9fac4c"
+    ],
+    "distance": 83.92
+  },
+  "1f8dd8b5-34f4-41eb-9608-e538869e2a5a_50361961-cde0-4502-a017-5d19b956ea53": {
+    "city_pair": [
+      "1f8dd8b5-34f4-41eb-9608-e538869e2a5a",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "53cf24a2-cf1d-4b52-9fd9-1dc2445eebb8",
+      "c15796d3-29f4-4a4f-84fc-8c6f82efcace",
+      "6be10063-0a10-4299-8c85-762c1b6b4600"
+    ],
+    "distance": 90.98
+  },
+  "ec3423bf-140e-4384-8619-25d24f6b7b01_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51",
+      "ec3423bf-140e-4384-8619-25d24f6b7b01"
+    ],
+    "steps": [
+      "231bb6eb-aa27-43dd-8007-75268b5d890c",
+      "898c4149-d53b-458e-b567-a67dbd125573"
+    ],
+    "distance": 62.39
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "e239ef51-84a4-4a98-af9a-e2e933489727",
+      "6307b887-9721-4b85-a061-60c2b97db075"
+    ],
+    "distance": 87.58
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_ef4d91fb-141d-489f-991a-351d9ae6fa51": {
+    "city_pair": [
+      "ef4d91fb-141d-489f-991a-351d9ae6fa51",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "4ff71e34-02e6-458b-babf-2d7f12ca541e",
+      "721cd725-fcce-46a0-b451-f24b1f31a6fc"
+    ],
+    "distance": 38.91
+  },
+  "516c7731-026d-43f3-8ef4-94e1ad8b8569_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "ec3423bf-140e-4384-8619-25d24f6b7b01",
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569"
+    ],
+    "steps": [
+      "c74e3b69-88b2-4bb9-981c-3fb9bbf26eeb",
+      "36191c87-8500-4b65-a7bf-aa5de672731b",
+      "6ac24564-2647-4331-84ce-5222d4a30b84"
+    ],
+    "distance": 10.51
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_ec3423bf-140e-4384-8619-25d24f6b7b01": {
+    "city_pair": [
+      "ec3423bf-140e-4384-8619-25d24f6b7b01",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "9216153a-5b6a-46c2-810e-10a5fd49be4d"
+    ],
+    "distance": 88.12
+  },
+  "50361961-cde0-4502-a017-5d19b956ea53_516c7731-026d-43f3-8ef4-94e1ad8b8569": {
+    "city_pair": [
+      "516c7731-026d-43f3-8ef4-94e1ad8b8569",
+      "50361961-cde0-4502-a017-5d19b956ea53"
+    ],
+    "steps": [
+      "fb922c4b-723c-49a5-9937-04c118780518",
+      "65cbacb6-5d5d-4e3d-8bc9-f1682139fe60",
+      "a1f2da63-9db7-405f-a16c-46ba5a970669"
+    ],
+    "distance": 11.7
+  }
+}

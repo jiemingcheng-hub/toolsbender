@@ -1,0 +1,112 @@
+{
+    "a31897c4-b25e-4dd6-956e-3175e6ac0d7b": {
+        "ticket_id": "a31897c4-b25e-4dd6-956e-3175e6ac0d7b",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "A1",
+        "user_name": "Alice001",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:35:33"
+    },
+    "cfed0a93-2efd-447f-836e-e3927188edc0": {
+        "ticket_id": "cfed0a93-2efd-447f-836e-e3927188edc0",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "B2",
+        "user_name": "Bob002",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:35:44"
+    },
+    "af177381-0607-467e-9dac-8d9dc2cbead4": {
+        "ticket_id": "af177381-0607-467e-9dac-8d9dc2cbead4",
+        "showtime_id": "S004",
+        "movie_id": "M001",
+        "theater_id": "T003",
+        "seat_number": "C3",
+        "user_name": "Charlie003",
+        "price": 80.0,
+        "booking_time": "2025-03-04 10:35:49"
+    },
+    "1431f0c0-13f1-4284-ab7b-e93c0ed14d17": {
+        "ticket_id": "1431f0c0-13f1-4284-ab7b-e93c0ed14d17",
+        "showtime_id": "S029",
+        "movie_id": "M004",
+        "theater_id": "T001",
+        "seat_number": "D4",
+        "user_name": "David004",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:35:55"
+    },
+    "71d8b4d5-4b84-4201-9b20-c9d07d596b36": {
+        "ticket_id": "71d8b4d5-4b84-4201-9b20-c9d07d596b36",
+        "showtime_id": "S038",
+        "movie_id": "M005",
+        "theater_id": "T003",
+        "seat_number": "E5",
+        "user_name": "Eve005",
+        "price": 80.0,
+        "booking_time": "2025-03-04 10:36:02"
+    },
+    "30474714-3c29-4dff-86e7-b2972a8deda7": {
+        "ticket_id": "30474714-3c29-4dff-86e7-b2972a8deda7",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "A2",
+        "user_name": "Frank006",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:07"
+    },
+    "6dc6e440-133f-4207-884a-551ad4c726e0": {
+        "ticket_id": "6dc6e440-133f-4207-884a-551ad4c726e0",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "A3",
+        "user_name": "Frank006",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:07"
+    },
+    "56d3a003-fadf-4659-a054-261dd1f45c86": {
+        "ticket_id": "56d3a003-fadf-4659-a054-261dd1f45c86",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "A4",
+        "user_name": "Frank006",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:07"
+    },
+    "5a90c7ac-6519-49a8-805a-24a78ffff2fb": {
+        "ticket_id": "5a90c7ac-6519-49a8-805a-24a78ffff2fb",
+        "showtime_id": "S001",
+        "movie_id": "M001",
+        "theater_id": "T001",
+        "seat_number": "C5",
+        "user_name": "Grace007",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:13"
+    },
+    "32b0a9ec-3594-4b62-b295-5e8973301786": {
+        "ticket_id": "32b0a9ec-3594-4b62-b295-5e8973301786",
+        "showtime_id": "S046",
+        "movie_id": "M006",
+        "theater_id": "T001",
+        "seat_number": "H8",
+        "user_name": "Henry008",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:18"
+    },
+    "a7b1ee64-b043-4884-b7cb-b64e05a17635": {
+        "ticket_id": "a7b1ee64-b043-4884-b7cb-b64e05a17635",
+        "showtime_id": "S035",
+        "movie_id": "M005",
+        "theater_id": "T001",
+        "seat_number": "I9",
+        "user_name": "Ivy009",
+        "price": 40.0,
+        "booking_time": "2025-03-04 10:36:26"
+    }
+}

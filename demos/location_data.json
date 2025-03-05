@@ -1,0 +1,27 @@
+{
+    "\u5317\u4eac\u5e02\u653f\u5e9c": {
+        "name": "\u5317\u4eac\u5e02\u653f\u5e9c",
+        "coordinate": "116.403963,39.915119",
+        "type": "landmark"
+    },
+    "\u4e0a\u6d77\u4e1c\u65b9\u660e\u73e0": {
+        "name": "\u4e0a\u6d77\u4e1c\u65b9\u660e\u73e0",
+        "coordinate": "121.499718,31.239703",
+        "type": "landmark"
+    },
+    "\u5e7f\u5dde\u5854": {
+        "name": "\u5e7f\u5dde\u5854",
+        "coordinate": "113.323568,23.106414",
+        "type": "landmark"
+    },
+    "\u6df1\u5733\u5e02\u6c11\u4e2d\u5fc3": {
+        "name": "\u6df1\u5733\u5e02\u6c11\u4e2d\u5fc3",
+        "coordinate": "114.064542,22.548457",
+        "type": "landmark"
+    },
+    "\u676d\u5dde\u897f\u6e56\u666f\u533a": {
+        "name": "\u676d\u5dde\u897f\u6e56\u666f\u533a",
+        "coordinate": "120.15507,30.274084",
+        "type": "landmark"
+    }
+}

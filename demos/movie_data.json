@@ -1,0 +1,120 @@
+{
+    "M001": {
+        "movie_id": "M001",
+        "title": "星际穿越",
+        "duration": 169,
+        "genre": [
+            "科幻",
+            "冒险",
+            "剧情"
+        ],
+        "language": "英语",
+        "rating": 9.3
+    },
+    "M002": {
+        "movie_id": "M002",
+        "title": "泰坦尼克号",
+        "duration": 194,
+        "genre": [
+            "爱情",
+            "灾难",
+            "剧情"
+        ],
+        "language": "英语",
+        "rating": 9.4
+    },
+    "M003": {
+        "movie_id": "M003",
+        "title": "盗梦空间",
+        "duration": 148,
+        "genre": [
+            "科幻",
+            "悬疑",
+            "冒险"
+        ],
+        "language": "英语",
+        "rating": 9.1
+    },
+    "M004": {
+        "movie_id": "M004",
+        "title": "肖申克的救赎",
+        "duration": 142,
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "language": "英语",
+        "rating": 9.7
+    },
+    "M005": {
+        "movie_id": "M005",
+        "title": "楚门的世界",
+        "duration": 103,
+        "genre": [
+            "剧情",
+            "科幻"
+        ],
+        "language": "英语",
+        "rating": 9.2
+    },
+    "M006": {
+        "movie_id": "M006",
+        "title": "千与千寻",
+        "duration": 125,
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "language": "日语",
+        "rating": 9.3
+    },
+    "M007": {
+        "movie_id": "M007",
+        "title": "这个杀手不太冷",
+        "duration": 110,
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "language": "英语",
+        "rating": 9.4
+    },
+    "M008": {
+        "movie_id": "M008",
+        "title": "复仇者联盟4",
+        "duration": 181,
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "language": "英语",
+        "rating": 8.5
+    },
+    "M009": {
+        "movie_id": "M009",
+        "title": "疯狂动物城",
+        "duration": 108,
+        "genre": [
+            "动画",
+            "冒险",
+            "喜剧"
+        ],
+        "language": "英语",
+        "rating": 9.2
+    },
+    "M010": {
+        "movie_id": "M010",
+        "title": "哪吒之魔童降世",
+        "duration": 110,
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "language": "中文",
+        "rating": 8.5
+    }
+}
