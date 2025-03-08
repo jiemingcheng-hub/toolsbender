@@ -1,0 +1,312 @@
+{
+  "aaa": {
+    "0307b95b-932b-4517-afc3-0c7f5c70ae55": {
+      "name": "0307b95b-932b-4517-afc3-0c7f5c70ae55",
+      "coordinates": [
+        84.06,
+        -62.57
+      ],
+      "interests": [
+        "1ce03d2f-387d-45c1-9ce1-b18e13326542",
+        "af8c1850-7aa9-4f7e-bf93-7d632b756fe9"
+      ],
+      "country": "aaa"
+    },
+    "c71a7c3d-11f0-4473-94aa-67ec748e20df": {
+      "name": "c71a7c3d-11f0-4473-94aa-67ec748e20df",
+      "coordinates": [
+        -88.32,
+        -95.73
+      ],
+      "interests": [
+        "f20e9e78-4ce7-46d6-a974-0e4b8534d492",
+        "d508b944-b30b-4517-9f01-3373a1a5758a",
+        "6ae9b0ac-af10-4f57-a37a-6dabb56eabfa",
+        "048cf34a-cc87-4632-a9a7-3d9a8de6ee38",
+        "aee5f069-3a89-4deb-b0e1-337086b60d46",
+        "f602994a-a27d-4670-a9f7-5a56263d8fa1"
+      ],
+      "country": "aaa"
+    },
+    "548f9e28-f9c1-482f-9f29-bd53e032c640": {
+      "name": "548f9e28-f9c1-482f-9f29-bd53e032c640",
+      "coordinates": [
+        -34.09,
+        68.28
+      ],
+      "interests": [
+        "03afb39e-9661-450c-9b8b-c7fa3fef8c87",
+        "d4072585-42a5-4c4d-8cc6-9e4adfb8b095",
+        "ecd1a0e8-9729-4e63-bfcc-e2958fc8ed4f",
+        "7b79687d-5810-4b0e-8e5e-376bb72431c8",
+        "2d636aa9-15de-45a4-b39c-d0c6af5b181d",
+        "1c41a4c1-bd22-4d9a-baff-f466a5131c8c"
+      ],
+      "country": "aaa"
+    },
+    "c4cd21a5-dc1a-4f26-8993-19567d2c4d96": {
+      "name": "c4cd21a5-dc1a-4f26-8993-19567d2c4d96",
+      "coordinates": [
+        -19.65,
+        154.65
+      ],
+      "interests": [
+        "6945cfc2-6988-487f-8776-36a077e1a340",
+        "5d8535c5-912d-4311-a336-ed6386bcee4b",
+        "304105b5-c4b6-478d-8680-117b2649361a",
+        "2fb90c9a-ab7c-40f1-994d-74babc11f6bf",
+        "e2470efd-170e-4efb-a6d1-fb6636af6e30",
+        "cc073b17-6e76-4f2c-9f82-18693a309bfc"
+      ],
+      "country": "aaa"
+    },
+    "8a6a0071-4bb9-4f4f-af53-0dcbf9cedcad": {
+      "name": "8a6a0071-4bb9-4f4f-af53-0dcbf9cedcad",
+      "coordinates": [
+        67.93,
+        120.49
+      ],
+      "interests": [
+        "0b97d50c-0fe6-4eaf-9f87-20e16edfbc45",
+        "322d22cf-96c4-4b76-98e5-70577f2671bd",
+        "ebf80a4d-c9cf-41dd-b7cb-fc35a9fb88e2"
+      ],
+      "country": "aaa"
+    },
+    "bb64ac83-7c36-407d-985d-9c84dbc1b39c": {
+      "name": "bb64ac83-7c36-407d-985d-9c84dbc1b39c",
+      "coordinates": [
+        78.63,
+        -81.19
+      ],
+      "interests": [
+        "bad6f609-9c88-4e4f-86f4-2b1eb4e3464b"
+      ],
+      "country": "aaa"
+    },
+    "87f61d13-d2c7-42af-9914-7e2b3eacf9bf": {
+      "name": "87f61d13-d2c7-42af-9914-7e2b3eacf9bf",
+      "coordinates": [
+        68.68,
+        14.25
+      ],
+      "interests": [
+        "f28fedfe-5fad-4780-bde9-caa7b70eac0a",
+        "ef12be59-7ae9-4308-9170-924333d1f87c",
+        "1b156c07-2c2e-40e2-a914-ab8e11affc34",
+        "1316dedd-f4bb-498a-9deb-cc3dd58ac2f6",
+        "6c79af4d-8da2-4bd2-b947-8a2a3bf167b9"
+      ],
+      "country": "aaa"
+    },
+    "87e1e0c0-c76c-4449-9db9-eb07975cdcd6": {
+      "name": "87e1e0c0-c76c-4449-9db9-eb07975cdcd6",
+      "coordinates": [
+        59.59,
+        -148.08
+      ],
+      "interests": [
+        "39235431-c7c4-4497-9721-8c919244e40e",
+        "5628c751-4c4e-4a56-aeea-bb87cdc6b3a1",
+        "e950efad-09d6-4847-86d7-897116d6ae1a",
+        "be863c37-cae5-4441-9d60-7c63991b53cb",
+        "7c17aea0-eb4e-49f7-8073-ab024adc2c87"
+      ],
+      "country": "aaa"
+    },
+    "4ea5bd75-2efd-44b1-8438-9a8ea0328169": {
+      "name": "4ea5bd75-2efd-44b1-8438-9a8ea0328169",
+      "coordinates": [
+        86.66,
+        -11.14
+      ],
+      "interests": [
+        "4bd373ca-cfc4-4bd3-bc84-b3a55e1fca78",
+        "98907a4c-78e6-4651-a93c-8c69bbfbe75e",
+        "07d6f616-fb5c-4bf7-a444-54b01d8e7526",
+        "b1ebd429-e13b-4547-bf02-00c26c7b9228",
+        "d9e54bd1-a349-4b43-9318-598558c7230b",
+        "b3608e6f-b074-49bc-bf9e-409ddc422a2f",
+        "25ec448a-0776-4f4b-a47b-a6bd79290ccf"
+      ],
+      "country": "aaa"
+    },
+    "ce6ad5ae-72f6-4c26-b47c-96f0525c5746": {
+      "name": "ce6ad5ae-72f6-4c26-b47c-96f0525c5746",
+      "coordinates": [
+        -84.34,
+        -10.27
+      ],
+      "interests": [
+        "d4a4e820-440c-406b-91d7-45ab607b56b6",
+        "3195508a-603e-4b47-ba9c-dd6bdd88d653",
+        "392c8bf8-303f-471a-accc-a9a1fb67aec5",
+        "bcb910a9-536e-48f3-96bc-25c311cf4ce6",
+        "c681b402-498e-4ce0-a1bf-1bcad4ffd7ca",
+        "fc50bb38-e80f-4081-bd08-486f48ca3984",
+        "fc917296-06c0-45f2-bbf2-d7b3e72808be"
+      ],
+      "country": "aaa"
+    }
+  },
+  "bbb": {
+    "b2a6e1f1-d950-4ca0-b325-4d550d778deb": {
+      "name": "b2a6e1f1-d950-4ca0-b325-4d550d778deb",
+      "coordinates": [
+        -82.53,
+        14.46
+      ],
+      "interests": [
+        "cb7ce9d7-b87d-407e-b27b-ff4cd075ecc1",
+        "cecc953d-5cb3-452d-b7a8-cee6ceb9ae86",
+        "4b61bf90-4b86-492e-b184-bb327bdbc122",
+        "8e2cdf63-fd1a-466f-b6d3-319a6c05213a"
+      ],
+      "country": "bbb"
+    },
+    "1ad549eb-88c8-4cb1-ba11-ada49984a801": {
+      "name": "1ad549eb-88c8-4cb1-ba11-ada49984a801",
+      "coordinates": [
+        -33.27,
+        -1.0
+      ],
+      "interests": [
+        "b2ab48e7-f933-4baa-9d80-423514aa6a8f",
+        "6a57d1dd-fa18-491d-9f84-211172634d1b",
+        "36924e6d-cb52-4794-a81a-47d60a83e761",
+        "aeda0a6a-0538-4a77-b8f4-ec11ab2bd866",
+        "7283f5c7-c9aa-4bde-b40b-c230802bba2c",
+        "f024918f-9a6f-47bb-9c45-784f60a02628",
+        "ae14df9d-3348-46c0-b618-21f76cc3fc7c",
+        "dfea9855-ed6f-486a-a740-3eac98c4ca5a"
+      ],
+      "country": "bbb"
+    },
+    "5f4fb09d-268f-4612-9b26-e929e5f693f4": {
+      "name": "5f4fb09d-268f-4612-9b26-e929e5f693f4",
+      "coordinates": [
+        -32.6,
+        138.88
+      ],
+      "interests": [
+        "f93d2266-6f5d-4f1c-802a-0b5779cf544e",
+        "0adfff0f-1d84-4c89-b47d-0dc08bbecfbc",
+        "20638549-2787-4379-bcfb-1169b47771a3"
+      ],
+      "country": "bbb"
+    },
+    "e6fe8962-d5e8-45e5-b55f-62f26fc90810": {
+      "name": "e6fe8962-d5e8-45e5-b55f-62f26fc90810",
+      "coordinates": [
+        -64.09,
+        105.69
+      ],
+      "interests": [
+        "ea4f5595-94f2-4b55-a1ae-e7e93b7aedc9",
+        "94fcffd6-a028-43b2-9529-ab9a0b772d07",
+        "1b9f7738-4156-420d-81f6-7bbc479044af",
+        "38c44957-36b0-41a6-bdb5-bae7fa6fdcfc",
+        "42026a10-8735-45eb-bc37-959ddff49d1b",
+        "45171c11-e12c-481f-aa8a-a5fc17b4ea27",
+        "e43cfc1f-a3b1-43a7-8927-af7b608e6f6d",
+        "9bf92985-2923-4052-b4ad-c3b619e76634"
+      ],
+      "country": "bbb"
+    },
+    "7a30743d-da7b-4107-a6a8-c55b924f1f88": {
+      "name": "7a30743d-da7b-4107-a6a8-c55b924f1f88",
+      "coordinates": [
+        -3.03,
+        -79.4
+      ],
+      "interests": [
+        "d97b44cc-c829-4e68-acec-6b8752c0d17a",
+        "8c27f8d4-b9e0-48ac-ad76-56d0713668d5",
+        "ebf9d4de-e412-4bd1-b4c2-61beb8947b11",
+        "d723ba2e-0d1b-4328-8c4a-ebb877fa461c",
+        "854ff63f-6090-46e4-bd13-fed1ced076e3",
+        "2be98906-3d4e-40f9-ae8e-5ae9d1af6d73"
+      ],
+      "country": "bbb"
+    },
+    "d33d3caf-fc0b-416f-a097-9902f6e681fd": {
+      "name": "d33d3caf-fc0b-416f-a097-9902f6e681fd",
+      "coordinates": [
+        -13.41,
+        15.12
+      ],
+      "interests": [
+        "c1c1eb79-f9aa-458a-bbb3-e138d4a4b8ef",
+        "a077fd4d-1a13-4e28-866e-fd8657ef0540",
+        "13fbf1c2-b63f-401e-9a72-157021382510",
+        "6fcbcc41-2a47-40a2-acc1-384bdeabbfdd",
+        "a6704a06-96c1-481f-8ce6-f477e5fdfe79",
+        "b1d2550e-5d7d-4b14-b99b-c5c8f2ffbb7b",
+        "13479a72-9977-42a7-82b3-f17c2686cfbb",
+        "f929a1c7-6904-47b2-8f00-9b0c90bc021d",
+        "d9ddbbf2-4eb8-47ba-9de1-b7ee19490655"
+      ],
+      "country": "bbb"
+    },
+    "d0fac9a1-01ab-442b-a46f-41ee30eaabfd": {
+      "name": "d0fac9a1-01ab-442b-a46f-41ee30eaabfd",
+      "coordinates": [
+        33.67,
+        -152.79
+      ],
+      "interests": [
+        "30c87b03-0ac4-4ad3-a0e0-e7f657734cfc",
+        "4c6b7949-d7d8-426c-90c2-b5676a10e60c",
+        "2092cd73-d038-4a61-9f9a-f351b7fa2545",
+        "beceb476-786a-4110-9afa-5d4ce9c98fe6",
+        "59be7485-3c69-4769-9c8e-d192af2ffb50",
+        "7290d23d-a9bc-4aab-a4dd-ddd07b7ab04e",
+        "8bad067b-bd03-49e5-a52c-c05e80536587"
+      ],
+      "country": "bbb"
+    },
+    "bfc85937-509a-4bd3-bb09-839b97cabe8e": {
+      "name": "bfc85937-509a-4bd3-bb09-839b97cabe8e",
+      "coordinates": [
+        18.69,
+        -113.8
+      ],
+      "interests": [
+        "d64065a8-b84d-4ef2-ab39-0ce9ee74deba",
+        "665cc140-318a-4836-921a-87cb64eb75d3",
+        "125f1b23-8c21-4a97-a464-232c315d9fe9"
+      ],
+      "country": "bbb"
+    },
+    "1afa381b-c0b7-4c19-b077-95f64774daa0": {
+      "name": "1afa381b-c0b7-4c19-b077-95f64774daa0",
+      "coordinates": [
+        -42.0,
+        106.16
+      ],
+      "interests": [
+        "43a9d8b9-ddea-4ae8-b968-094e92a95f60",
+        "c7bca3ef-a171-4d8a-a84f-afd7c6d0a75f",
+        "6cbbe265-cc25-4744-b85b-9518fbea95cd",
+        "ab2973b6-ac99-4bdb-9c2b-c9cf54dbb278"
+      ],
+      "country": "bbb"
+    },
+    "62b8b6c2-bf67-4881-927f-f0f79a7d6296": {
+      "name": "62b8b6c2-bf67-4881-927f-f0f79a7d6296",
+      "coordinates": [
+        11.05,
+        39.49
+      ],
+      "interests": [
+        "ba8356b0-a55d-42ac-b6b0-4301a3f3fc89",
+        "9c989753-5397-40cf-8bde-41c8c7ba27e5",
+        "d058b8ea-3dc0-46b1-b4bb-b3664fbb105d",
+        "13508a97-8045-4383-b97c-0ee9f5b1c8c7",
+        "a368c1e6-5cc0-42c4-bfda-221e9102af33",
+        "3c79c6cb-c4b7-4eab-a152-04af2f5c9787"
+      ],
+      "country": "bbb"
+    }
+  }
+}
